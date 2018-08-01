@@ -1,0 +1,6 @@
+target
+*.xml
+*.txt
+*.lst
+*.iml
+*.jar
